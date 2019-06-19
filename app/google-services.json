@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "851494481811",
+    "firebase_url": "https://prueba-9950b.firebaseio.com",
+    "project_id": "prueba-9950b",
+    "storage_bucket": "prueba-9950b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:851494481811:android:37f51cc260381905",
+        "android_client_info": {
+          "package_name": "com.cuidadoanimal.prueba"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "851494481811-jbhpn3abbev5qaenson3v0c6vs19jmga.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cuidadoanimal.prueba",
+            "certificate_hash": "a96685f5e97e949564be46812984989009ed4ee4"
+          }
+        },
+        {
+          "client_id": "851494481811-t46d422rrchmcvgd7unsdu1m0m1lg1it.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZDT1BfgMUOYchVD9Zol2a7C089aGpqNM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "851494481811-t46d422rrchmcvgd7unsdu1m0m1lg1it.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
